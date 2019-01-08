@@ -1,0 +1,25 @@
+{
+  "name": "patap_clone",
+  "version": "1.0.0",
+  "description": "A Patap clone for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amancioandre/patap_clone.git"
+  },
+  "keywords": [
+    "patap",
+    "clone",
+    "paper.js",
+    "howler.js"
+  ],
+  "author": "André Amâncio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amancioandre/patap_clone/issues"
+  },
+  "homepage": "https://github.com/amancioandre/patap_clone#readme"
+}
